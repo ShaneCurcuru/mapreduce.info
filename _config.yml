@@ -15,13 +15,13 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "MapReduce.Info - How Apache Hadoop Works On Big Data"
+keywords:    "Apache, Hadoop, MapReduce, bigdata, help, opensource"
+description: "Simple pointers to how MapReduce and Hadoop turn Big Data into Useful Data"
+source_link: "https://github.com/ShaneCurcuru/mapreduce.info"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-6070690-4 ## using communityovercode.com for now
 
 
 ### template colors, used site-wide via css ###
